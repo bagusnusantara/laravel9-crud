@@ -1,5 +1,5 @@
 Aplikasi berikut dibuat menggunakan framework laravel 9.
-Berisi tentang contoh studi kasus CRUD Data Pegawai
+Berisi tentang contoh studi kasus CRUD Data Pelanggan
 
 Terdapat sebuah trigger untuk melakukan insert kode pegawai, yaitu :
 delimiter //
