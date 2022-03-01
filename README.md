@@ -19,4 +19,4 @@ Untuk instalasi lakukan :
 - php artisan migrate
 
 Screenshoot Aplikasi :
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot1.png)
