@@ -13,7 +13,10 @@ SET NEW.kode_pelanggan=(SELECT LPAD((SELECT MAX(kode_pelanggan) FROM pelanggans)
 END IF; //
 delimiter ;
 
-untuk instalasi lakukan : 
+Untuk instalasi lakukan : 
 - composer install
 - php artisan key:generate
 - php artisan migrate
+
+Screenshoot Aplikasi :
+![Screenshot](screenshot.png)
